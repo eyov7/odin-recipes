@@ -1,0 +1,35 @@
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    background-color: #f5f5dc;  /* Light Beige */
+}
+
+h3 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: larger;
+    text-align: center;
+    background-color: #f5f5dc;  /* Light Beige */
+}
+
+p, ul, ol {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large ;
+    /* background-color: #D1E8D2;  /* Soft Sage Green */
+    /* Alternate color options (uncomment to use): */
+    background-color: #E8F3E8;  /* Softer Sage Green */
+    /* background-color: #E6E6FA;  /* Pale Lavender */
+    /* background-color: #F0E6FF;  /*  Lighter Pale Lavender */
+    
+    
+}
+
+p {
+    text-align: center;
+}
+
+.centered-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
